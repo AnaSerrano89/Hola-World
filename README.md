@@ -1,4 +1,7 @@
 <html>
+<head>
+</head>
+
 <body>
 
 <h2>JSON Object Creation in JavaScript</h2>
